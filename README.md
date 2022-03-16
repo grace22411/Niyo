@@ -9,6 +9,8 @@ The creator economy is a booming one, yet creators and their supporters are stil
 We believe that  creators and their supporters should be economically empowered for their interaction and also for the creator's content. We want to see a world where NFTs are not just images but supporters can redeem their 'investment' for real products and services that the creator  has created. 
 Once a creator uploads a creation, they  get onboarded onto the Niyo Dao and recieve tokens as rewards, those who like the creators become part of the creator;s community. We have a big vision of  mass adoption of crypto in the non-crypto native Hair, Beauty and Fashion Ecosystem.
 
+![7](https://user-images.githubusercontent.com/69260613/158573831-5dd3dfe1-0a17-40ad-b6d3-7dcbee640b5c.png)
+
 
 ### Mission
 
