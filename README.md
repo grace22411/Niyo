@@ -3,6 +3,7 @@ Niyo is a mobile first app that gives hair, beauty and fashion pros, enthusiasts
 
 https://github.com/grace22411/Niyo/blob/master/Niyo.io%20pitch%20deck.png
 
+
 ## Available Scripts
 
 In the project directory, you can run:
