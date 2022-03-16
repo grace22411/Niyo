@@ -1,5 +1,5 @@
 # Eth Denver Niyo
-Niyo is a mobile first tool that economically empowers hair, beauty and fashion creators, pros, enthusiasts and influencers for their creativity. Creators earn using their creation into F-NFT.  Users will be able to convert F-NFTs into real products and services that users can purchase using their tokens and therefore get real utility. Aggregating payments with community-driven escrow service.
+Niyo is a mobile first tool that economically empowers hair, beauty and fashion creators, pros, enthusiasts and influencers for their creativity. Creators earn by turning their creations and content into F-NFT.  The creator's supporters will be able to convert F-NFTs into real products and services that users can purchase using their tokens and therefore get real utility. Aggregating payments with community-driven escrow service.
 <img width="1440" alt="Niyo io pitch deck" src="https://user-images.githubusercontent.com/69260613/158563913-519656b1-4754-407d-bb5c-8c4127c0b2c0.png">
 
 ## Problem
