@@ -1,12 +1,17 @@
 # Eth Denver Niyo
-Niyo is a mobile first app that gives hair, beauty and fashion pros, enthusiasts and influencers economic power for their creativity. By turning images and videos into F-NFT causing mass adoption of crypto in the non-crypto native Hair, Beauty and Fashion Ecosystem. Users will be able to convert F-NFTs into real products and services that users can purchase and sell on the chain and therefore get real utility. Aggregating payments with community-driven escrow service.
+Niyo is a mobile first tool that economically empowers hair, beauty and fashion creators, pros, enthusiasts and influencers for their creativity. Creators earn using their creation into F-NFT.  Users will be able to convert F-NFTs into real products and services that users can purchase and sell on the chain and therefore get real utility. Aggregating payments with community-driven escrow service.
+A tool that economically empowers artists - empowers stylists, creators to earn using their creation.
+Once creator uploads a creation, they get tokens as rewards. Those who like that creation - become a part of the creator’s community
+
 <img width="1440" alt="Niyo io pitch deck" src="https://user-images.githubusercontent.com/69260613/158563913-519656b1-4754-407d-bb5c-8c4127c0b2c0.png">
 
 ## Problem
+The creator economy is a booming one, yet creators and their supporters are still not rewarded for their work on the current social platforms that exist. The power of web 3 is that it decentralises power, yet creators are still not aware of how this could economically empower them. With Niyo, creators will become adopters of crypto and also be rewarded for their art from picture/video to service or product.
 
-## Available Scripts
+## Vision
+We believe that  creators and their supporters should be economically empowered for their interaction and also for the creator's content. We want to see a world where NFTs are not just images but supporters can redeem their 'investment' for real products and services that the creator  has created. 
+Once a creator uploads a creation, they  get onboarded onto the Niyo Dao and recieve tokens as rewards, those who like the creators become part of the creator;s community. We have a big vision of  mass adoption of crypto in the non-crypto native Hair, Beauty and Fashion Ecosystem.
 
-In the project directory, you can run:
 
 ### `yarn start`
 
