@@ -12,11 +12,11 @@ const Sidebar = () => {
       </div>
 
       <nav>
-      <Link to="/"><i class="fas fa-home"></i></Link>
+      <Link to="/dashboard"><i class="fas fa-home"></i></Link>
         <i className="fas fa-comment-dots"></i>
         <i class="fas fa-megaphone"></i>
         <i className="fas fa-bell"></i>
-       <Link to="/wallet"> <i className="fas fa-wallet"></i></Link>
+       <Link to="/dashboard/wallet"> <i className="fas fa-wallet"></i></Link>
       </nav>
 
       <div className="switch">
