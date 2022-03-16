@@ -1,8 +1,8 @@
 # Eth Denver Niyo
 Niyo is a mobile first app that gives hair, beauty and fashion pros, enthusiasts and influencers economic power for their creativity. By turning images and videos into F-NFT causing mass adoption of crypto in the non-crypto native Hair, Beauty and Fashion Ecosystem. Users will be able to convert F-NFTs into real products and services that users can purchase and sell on the chain and therefore get real utility. Aggregating payments with community-driven escrow service.
+<img width="1440" alt="Niyo io pitch deck" src="https://user-images.githubusercontent.com/69260613/158563913-519656b1-4754-407d-bb5c-8c4127c0b2c0.png">
 
-https://github.com/grace22411/Niyo/blob/master/Niyo.io%20pitch%20deck.png
-
+## Problem
 
 ## Available Scripts
 
