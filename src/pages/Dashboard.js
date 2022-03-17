@@ -8,6 +8,7 @@ import {
   Header,
   SearchSection,
 } from "./styles";
+import { Link } from "react-router-dom";
 
 const breakpointColumnsObj = {
   default: 5,
@@ -31,10 +32,10 @@ const Dashboard = () => {
         </div>
 
         <div className="friends">
-          {Friends.map((item) => {
+          {Friends.map((item, index) => {
             return (
               <div
-                className="friend-pic"
+                className="friend-pic" key={index}
                 style={{ backgroundImage: `url(${item.image})` }}
               ></div>
             );
@@ -45,8 +46,10 @@ const Dashboard = () => {
       <SearchSection>
         <div className="search">
           <input placeholder="Search images and videos" type="text" />
+          <div className="icons">
           <i className="fas fa-search"></i>
-          <i class="fas fa-search"></i>
+          <i className="fas fa-search"></i>
+          </div>
         </div>
         <i class="fas fa-ellipsis-v more"></i>
       </SearchSection>
@@ -67,13 +70,21 @@ const Dashboard = () => {
           })}
         </Masonry> */}
         <ul>
-            
               {DashImages.map((item) => {
-                return <li>
+                return (
+                  <>
+                  <Link to={`/dashboard/${item.id}`}>
+                <li key={item.id}>
+                  
                     <img src={item.image} alt={item.name}/>
-                </li>;
+                    
+                </li>
+                </Link>
+                <div className="overlay"></div>
+                </>
+                );
               })}
-           
+              
           </ul>
       </DashboardImageOverview>
     </ContainDashboard>

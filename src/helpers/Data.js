@@ -78,6 +78,7 @@ export const DashImages = [
         image:dash,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -87,6 +88,7 @@ export const DashImages = [
         image:dash1,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -96,6 +98,7 @@ export const DashImages = [
         image:dash2,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -105,6 +108,7 @@ export const DashImages = [
         image:dash3,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -114,6 +118,7 @@ export const DashImages = [
         image:dash4,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -123,6 +128,7 @@ export const DashImages = [
         image:dash5,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -132,6 +138,7 @@ export const DashImages = [
         image:dash6,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -141,6 +148,7 @@ export const DashImages = [
         image:dash7,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -150,6 +158,7 @@ export const DashImages = [
         image:dash8,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -159,6 +168,7 @@ export const DashImages = [
         image:dash9,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -168,6 +178,7 @@ export const DashImages = [
         image:dash10,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -177,6 +188,7 @@ export const DashImages = [
         image:dash11,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -186,6 +198,7 @@ export const DashImages = [
         image:dash12,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
     {
@@ -195,6 +208,17 @@ export const DashImages = [
         image:dash13,
         shortDescription:"Braidbar LA",
         location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
+        btc:"1000"
+    },
+    {
+        id:14,
+        name:"Red 70'' Braids",
+        price:"0.076",
+        image:dash13,
+        shortDescription:"Braidbar LA",
+        location:"Sensei Leaves in KE> Processed in NG > Dyed in GB > Packaged in GB.",
+        local:"Birmingham, GB , B1",
         btc:"1000"
     },
    

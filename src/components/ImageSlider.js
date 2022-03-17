@@ -19,10 +19,10 @@ console.log(current)
   return (
     <div>
         <ImageSliderSaved>
-        {SliderData.map((item) => {
+        {SliderData.map((item, index) => {
             return (
                 
-                <div className='image-saved' style={{backgroundImage:`url(${item.image})`}} onClick = {nextSlider}>
+                <div className='image-saved' style={{backgroundImage:`url(${item.image})`}} key={index} onClick = {nextSlider}>
                 </div>
                 
             )

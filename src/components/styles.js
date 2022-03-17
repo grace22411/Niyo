@@ -28,20 +28,27 @@ export const SiderContainer = styled.div`
   nav {
     width: 100%;
     text-align: center;
+    li{
+      list-style:none ;
+      a{
+        padding: 4px;
+        border-radius:5px; ;
+      }
+    }
     i {
-      display: list-item;
       cursor: pointer;
       color: #f9f9f9;
-      margin-bottom: 30px;
+      width:auto ;
+      margin-bottom: 33px;
       font-size: 20px;
-      padding: 4px;
+     
       //display:inline ;
     }
-    i:hover {
+    a:hover {
       background-color: rgba(0, 0, 0, 0.2);
     }
     .active {
-      background-color: rgba(255, 255, 255, 0.2);
+      background-color: rgba(0, 0, 0, 0.2);
     }
   }
 

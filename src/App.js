@@ -4,6 +4,23 @@ import { useNavigate, BrowserRouter as Router, Route, Routes } from "react-route
 import { Layout } from "./components/Layout";
 import Wallet from "./pages/Wallet";
 import Login from "./Auth/Login";
+import ImageDetail from "./pages/Details";
+
+
+function Main() {
+  return (
+    <>
+        <Routes>
+          <Route path="/dashboard" element={<Layout />}>
+            <Route index element={<Dashboard />} />
+            <Route path="wallet" element={<Wallet />} />
+            <Route  path=":id" element={<ImageDetail />} />
+          </Route>
+          <Route path="/" element={<Login />} />
+        </Routes>
+    </>
+  );
+}
 
 function App() {
   return (
@@ -15,21 +32,4 @@ function App() {
 
 export default App;
 
-function Main() {
-  // const navigate = useNavigate();
 
-  // useEffect(() => {
-  //   navigate("/login")
-  // }, [])
-  return (
-    <>
-        <Routes>
-          <Route path="/dashboard" element={<Layout />}>
-            <Route index element={<Dashboard />} />
-            <Route path="wallet" element={<Wallet />} />
-          </Route>
-          <Route path="/" element={<Login />} />
-        </Routes>
-    </>
-  );
-}

@@ -99,4 +99,17 @@ export const LoginContainer = styled.div`
       margin: 0;
     }
   }
+  @media only screen and (max-width:994px){
+    flex-direction:column ;
+    .login-image{
+        display:none ;
+    }
+    .login-form{
+        width:100%;
+        h1{
+            font-size:40px; ;
+        }
+    }
+  }
+
 `;

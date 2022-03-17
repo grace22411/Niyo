@@ -22,7 +22,7 @@ const Login = () => {
 			window.ethereum.request({ method: 'eth_requestAccounts'})
 			.then(result => {
 				accountChangedHandler(result[0]);
-			  setConnButtonText(`Wallet Connected`);
+			  setConnButtonText("Wallet Connected ");
       //setConnButtonText(`${<p>{defaultAccount}</p>}`)
 				getAccountBalance(result[0]);
 			})
@@ -79,6 +79,7 @@ const Login = () => {
         <div className="connect-meta connect">
           <button onClick={connectWalletHandler}>{connButtonText} <img src={meta} alt="" /></button>
         </div>
+        {errorMessage}
         <div className="connect-meta connect">
           <h2>OR</h2>
         </div>

@@ -15,8 +15,10 @@ export const WalletContainer = styled.div`
       color: #f49701ce;
       height: 30px;
       border-radius: 20px;
-      width: 15%;
+      width: auto;
+      padding:5px 20px;
       font-size: 16px;
+      cursor: pointer;
       font-weight: 700;
       background-color: #fff;
       box-shadow: 0 3px 6px #00000030;

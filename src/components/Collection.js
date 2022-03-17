@@ -20,7 +20,7 @@ const Collection = () => {
         <div className='header'>
             <h2>Saved</h2>
         </div>
-        <ImageSlider  slides ={SliderData}/>
+        <ImageSlider  />
         </SavedCollection>
 
 

@@ -57,6 +57,11 @@ justify-content:space-between ;
    @media only screen and (max-width:1024px){
      .user{
        width:100%;
+       .user-info{
+         h1{
+           font-size:25px; ;
+         }
+       }
      }
     .friends{
       display:none ;
@@ -72,6 +77,8 @@ export const SearchSection = styled.div`
         border:1px solid #03030321;
         height:40px;
         border-radius: 20px;
+        display:flex ;
+        padding:2px 4px 0 0;
        
         input{
             width:78%;
@@ -82,13 +89,17 @@ export const SearchSection = styled.div`
             outline:none ;
             font-family: 'Open Sans', sans-serif;
         }
-        i{
-            color:#fff;
-            padding:9px;
-            border-radius:100%;
-            background-color:#EEB1F0 ;
-            margin-left:3px;
+        .icons{
+          margin-left:auto ;
+          i{
+              color:#fff;
+              padding:9px;
+              border-radius:100%;
+              background-color:#EEB1F0 ;
+              margin-left:3px;
+          }
         }
+        
         ::placeholder{
             color:#03030321;
         }
@@ -103,10 +114,33 @@ export const SearchSection = styled.div`
             font-size:20px;
     }
 
-    @media only screen and (max-width:1024px){
+    @media only screen and (max-width:480px){
       margin-top:20px;
      .search{
-       width:80%;
+       width:100%;
+       input{
+         width:70%;
+         
+       }
+       i{
+         padding:7px;
+       }
+     }
+
+     .more{
+       display: none;
+     }
+  }
+
+  @media only screen and (min-width:481px) and (max-width:1024px){
+      margin-top:20px;
+     .search{
+       width:90%;
+       
+     }
+
+     .more{
+       display: block;
      }
   }
 
@@ -143,22 +177,38 @@ li {
   flex-grow: 1;
   list-style:none ;
   padding:10px;
+
+  position:relative;
+  
+  img {
+    max-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+      cursor: pointer;
+
+    border-radius:20px; ;
+  }
+ 
   
 }
+.overlay{
+    background:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4));
+    height:inherit ;;
+    width:inherit ;
+   z-index:9999;
+   //filter:grayscale(1%) ;
+
+ // position:absolute;
+    border-radius:20px; ;
+  }
 
 li:last-child {
   // There's no science in using "10" here. In all my testing, this delivered the best results.
   flex-grow: 10;
 }
 
-img {
-  max-height: 100%;
-  min-width: 100%;
-  object-fit: cover;
-  vertical-align: bottom;
-    cursor: pointer;
-  border-radius:20px; ;
-}
+
 
 
 @media (max-aspect-ratio: 1/1) {
