@@ -1,6 +1,5 @@
 import React from "react";
 import { DashImages, Friends } from "../helpers/Data";
-import Masonry from "react-masonry-css";
 
 import {
   ContainDashboard,

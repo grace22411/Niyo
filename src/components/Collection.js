@@ -1,5 +1,4 @@
 import React from 'react'
-import { SliderData } from '../helpers/Data'
 import ImageSlider from './ImageSlider'
 import { CollectionContain, SavedCollection } from './styles'
 

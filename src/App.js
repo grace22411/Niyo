@@ -1,6 +1,6 @@
-import { useEffect } from "react";
+
 import Dashboard from "./pages/Dashboard";
-import { useNavigate, BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { Layout } from "./components/Layout";
 import Wallet from "./pages/Wallet";
 import Login from "./Auth/Login";
