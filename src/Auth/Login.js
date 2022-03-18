@@ -1,4 +1,4 @@
-import React, {useState} from "react";
+import React, {useState, useEffect} from "react";
 import { LoginContainer } from "./style";
 
 import {ethers} from 'ethers'
@@ -60,9 +60,12 @@ const Login = () => {
 
 
 	// listen for account changes
-	window.ethereum.on('accountsChanged', accountChangedHandler);
+  useEffect(() => {
+    window.ethereum.on('accountsChanged', accountChangedHandler);
 
-	window.ethereum.on('chainChanged', chainChangedHandler);
+    window.ethereum.on('chainChanged', chainChangedHandler);
+  }, [])
+
   return (
     <LoginContainer>
       <div className="login-image">

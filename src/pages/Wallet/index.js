@@ -1,5 +1,5 @@
 
-  import React, {useState} from "react";
+  import React, {useState,useEffect} from "react";
 
   import {ethers} from 'ethers'
 import near from "../../assets/near-logo.png";
@@ -58,10 +58,13 @@ const Wallet = () => {
 	}
 
 
-	// listen for account changes
-	window.ethereum.on('accountsChanged', accountChangedHandler);
+  //listen to account change
+  useEffect(() => {
+    window.ethereum.on('accountsChanged', accountChangedHandler);
 
-	window.ethereum.on('chainChanged', chainChangedHandler);
+    window.ethereum.on('chainChanged', chainChangedHandler);
+  }, [])
+
   return (
     <WalletContainer>
       <div className="connect">
