@@ -12,10 +12,8 @@ Once a creator uploads a creation, they  get onboarded onto the Niyo Dao and rec
 ![7](https://user-images.githubusercontent.com/69260613/158573831-5dd3dfe1-0a17-40ad-b6d3-7dcbee640b5c.png)
 
 
-### Mission
+### Architecture Workflow
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
