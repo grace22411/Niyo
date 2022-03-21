@@ -51,11 +51,15 @@ Users interact with the platform through the below:
 
 ### Impact
 
+Social Impact - Most people in the creator economy  come from underrepresented  backgrounds and still are suffering from relative poverty namely black and brown backgrounds. The work we will be doing at Niyo would act as a tool for economic empowerment with focus on addressing the  no poverty  and reducing inequalities SDGs
+
+Impact of economic growth- The platform would be deployed purposefully in countries with a large population of black and brown people so that there would be  more economic growth in regions that have been disenfranchised.
+
 
 
 ### Further developments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+We are planning to develop the technology behind our try on feature so as
 
 ### Team
 - Oyinkansola Adebayo - (Product Manager & Product Designer)
