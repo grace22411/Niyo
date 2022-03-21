@@ -18,8 +18,7 @@ Once a creator uploads a creation, they  get onboarded onto the Niyo Dao and rec
 
 ### Software Architecture
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
 
 ### Link to Prototype
 
@@ -27,6 +26,7 @@ https://niyo.netlify.app
 
 
 ### Road Map
+![Niyo io pitch deck](https://user-images.githubusercontent.com/69260613/159221999-6c12f382-db0b-4746-8da2-32e4e24c4d33.png)
 
 
 ## Learn More
