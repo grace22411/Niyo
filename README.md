@@ -30,7 +30,7 @@ https://niyo.netlify.app
 
 
 ## Market Analysis
-
+ Currently, there is no mobile firendly Dapp that serves for the large creator economyto maximise their productivity and to truly be rewarded for their creation.  The size of the creator economy is around $3.8 Trillion  but yet it is not adopted in the web 3 space. Onboarding creators who are not 'traditional' artists could scale  web 3 to further unreached and underserved audiences.
 
 
 ### How Niyo Works
