@@ -34,12 +34,21 @@ https://niyo.netlify.app
 
 
 ### How Niyo Works
+Niyo allows 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Users interact with the platform through the below:
+
+Slay – Using our AR and ML function, users book various hair, beauty and fashion styling appointments conveniently 
+Play - Powered by the DAO, users will learn hair and beauty, fashion techniques virtually or physically with industry experts through our academy
+Care- Purchase, invest and understand the supply chain journey of tools, hair extensions, fashion products and accessories on demand.
 
 ### Revenue Streams
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Product Sales 
+- Membership Fees
+- Partnership fees
+- Minting Fees
+- D
 
 ### Impact
 
