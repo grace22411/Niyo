@@ -17,7 +17,7 @@ Once a creator uploads a creation, they  get onboarded onto the Niyo Dao and rec
 
 
 ### Software Architecture
-
+![Niyo io pitch deck-3](https://user-images.githubusercontent.com/69260613/159224921-bcc45429-a612-4b1e-9489-27aeec579cca.png)
 
 
 ### Link to Prototype
@@ -29,29 +29,27 @@ https://niyo.netlify.app
 ![Niyo io pitch deck](https://user-images.githubusercontent.com/69260613/159221999-6c12f382-db0b-4746-8da2-32e4e24c4d33.png)
 
 
-## Learn More
+## Market Analysis
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### How Niyo Works
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+### Revenue Streams
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+### Impact
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### Further developments
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+### Teams
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
