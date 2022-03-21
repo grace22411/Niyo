@@ -34,7 +34,7 @@ https://niyo.netlify.app
 
 
 ### How Niyo Works
-Niyo allows 
+Niyo allows for users to explore the dapp to see their favourite and nearby creators  creations, try before they mint and then interact by the below:
 
 Users interact with the platform through the below:
 
@@ -44,15 +44,14 @@ Users interact with the platform through the below:
 
 ### Revenue Streams
 
-- Product Sales 
-- Membership Fees
-- Partnership fees
-- Minting Fees
-- D
+- Product Sales - Through our ecommerce platform (niyohairandbeauty.com and affiliate links from other brands products)
+- Membership Fees - membership fees from  creators to list as many of their creation as possible
+- Partnership fees - Partnership with NFT projects that implement NFTs on physical products
+- Training from DAO- Training fees from the users who will like to get accredited as Niyo creators.
 
 ### Impact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
 
 ### Further developments
 
