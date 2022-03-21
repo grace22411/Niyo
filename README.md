@@ -15,6 +15,15 @@ Once a creator uploads a creation, they  get onboarded onto the Niyo Dao and rec
 ### User flow
 ![Image 21-03-2022 at 07 39](https://user-images.githubusercontent.com/69260613/159221089-e259df49-04bd-4222-a3e0-1b00138de1c4.jpg)
 
+### How Niyo Works
+Niyo allows for users to explore the dapp to see their favourite and nearby creators  creations, try before they mint and then interact by the below:
+
+Users interact with the platform through the below:
+
+- Slay – Using our AR and ML function, users book various hair, beauty and fashion styling appointments conveniently
+- Play - Powered by the DAO, users will learn hair and beauty, fashion techniques virtually or physically with industry experts through our academy
+- Care- Purchase, invest and understand the supply chain journey of tools, hair extensions, fashion products and accessories on demand.
+
 
 ### Software Architecture
 ![Niyo io pitch deck-3](https://user-images.githubusercontent.com/69260613/159224921-bcc45429-a612-4b1e-9489-27aeec579cca.png)
@@ -33,14 +42,6 @@ https://niyo.netlify.app
  Currently, there is no mobile firendly Dapp that serves for the large creator economyto maximise their productivity and to truly be rewarded for their creation.  The size of the creator economy is around $3.8 Trillion  but yet it is not adopted in the web 3 space. Onboarding creators who are not 'traditional' artists could scale  web 3 to further unreached and underserved audiences.
 
 
-### How Niyo Works
-Niyo allows for users to explore the dapp to see their favourite and nearby creators  creations, try before they mint and then interact by the below:
-
-Users interact with the platform through the below:
-
-- Slay – Using our AR and ML function, users book various hair, beauty and fashion styling appointments conveniently
-- Play - Powered by the DAO, users will learn hair and beauty, fashion techniques virtually or physically with industry experts through our academy
-- Care- Purchase, invest and understand the supply chain journey of tools, hair extensions, fashion products and accessories on demand.
 
 ### Revenue Streams
 
@@ -55,11 +56,9 @@ Social Impact - Most people in the creator economy  come from underrepresented  
 
 Impact of economic growth- The platform would be deployed purposefully in countries with a large population of black and brown people so that there would be  more economic growth in regions that have been disenfranchised.
 
-
-
 ### Further developments
 
-We are planning to develop the technology behind our try on feature so as
+We are planning to develop the technology behind our try on feature so as to enable our users can  have the best user experience when interacting with the technology.
 
 ### Team
 - Oyinkansola Adebayo - (Product Manager & Product Designer)
