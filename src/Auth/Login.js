@@ -60,11 +60,12 @@ const Login = () => {
 
 
 	// listen for account changes
-  useEffect(() => {
-    window.ethereum.on('accountsChanged', accountChangedHandler);
+//  if(connectWalletHandler){
+//   window.ethereum.on('accountsChanged', accountChangedHandler);
 
-    window.ethereum.on('chainChanged', chainChangedHandler);
-  }, [])
+//   window.ethereum.on('chainChanged', chainChangedHandler);
+//  }
+    
 
   return (
     <LoginContainer>

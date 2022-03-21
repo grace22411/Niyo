@@ -59,11 +59,11 @@ const Wallet = () => {
 
 
   //listen to account change
-  useEffect(() => {
-    window.ethereum.on('accountsChanged', accountChangedHandler);
+  // useEffect(() => {
+  //   window.ethereum.on('accountsChanged', accountChangedHandler);
 
-    window.ethereum.on('chainChanged', chainChangedHandler);
-  }, [])
+  //   window.ethereum.on('chainChanged', chainChangedHandler);
+  // }, [])
 
   return (
     <WalletContainer>
@@ -74,9 +74,10 @@ const Wallet = () => {
       </div>
 
       <div className="connect">
-        <img src={meta} alt="Near Logo" />
+        <img src={meta} alt="Meta Logo" />
         <h4>Connect to MetaMask</h4>
         <button onClick={connectWalletHandler}>{connButtonText}</button>
+        <p>{errorMessage}</p>
         <p>{defaultAccount}</p>
       </div>
     </WalletContainer>
