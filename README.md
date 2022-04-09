@@ -39,16 +39,17 @@ https://niyo.netlify.app
 
 
 ## Market Analysis
- Currently, there is no mobile firendly Dapp that serves for the large creator economyto maximise their productivity and to truly be rewarded for their creation.  The size of the creator economy is around $3.8 Trillion  but yet it is not adopted in the web 3 space. Onboarding creators who are not 'traditional' artists could scale  web 3 to further unreached and underserved audiences.
+ Currently, there is no mobile friendly Dapp that serves for the large creator economy to maximise their productivity and to truly be rewarded for their creation.  The size of the creator economy is around $3.8 Trillion  but yet it is not adopted in the web 3 space. Onboarding creators who are not 'traditional' artists could scale  web 3 to further unreached and underserved audiences.
 
 
 
 ### Revenue Streams
 
 - Product Sales - Through our ecommerce platform (niyohairandbeauty.com and affiliate links from other brands products)
-- Membership Fees - membership fees from  creators to list as many of their creation as possible
+- Royaalties - royalty fees from  creators to list as many of their creation as possible
 - Partnership fees - Partnership with NFT projects that implement NFTs on physical products
 - Training from DAO- Training fees from the users who will like to get accredited as Niyo creators.
+
 
 ### Impact
 
